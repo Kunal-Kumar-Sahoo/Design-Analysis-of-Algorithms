@@ -14,3 +14,5 @@ Algorithms covered till now:
   - Bubble Sort
   - Insertion Sort
   - Merge Sort
+  - Quick Sort
+  - Heap Sort
